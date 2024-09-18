@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan</h1>
-<h3 align="center">Certified Cloud DevOps Engineer</h3>
+<h3 align="center">Cloud DevOps Engineer</h3>
+<h4 align="center">Certified From AWS, Huawei and Linux Foundation</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaadevops&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaadevops" /> </p>
 
