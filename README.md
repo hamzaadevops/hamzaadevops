@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan</h1>
 <h3 align="center">Cloud DevOps Engineer <br> Certified From AWS, Huawei and Linux Foundation</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaadevops&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaadevops" /> </p>
 <p> As a recent Computer Science graduate, I’m passionate about driving innovation in cloud infrastructure and DevOps. My hands-on experience spans across multiple platforms, including AWS and Terraform, enabling automated infrastructure that enhances scalability and efficiency.  My journey in DevOps was further enriched at PufferSoft, where I contributed to cloud strategies that accelerated deployment times by 30% and supported an application handling over 2 million users.
 
 I am currently working as Associate DevOps Engineer at AntonX, where I led the charge in implementing high-performance cloud solutions, where I streamlined our processes using GitHub Actions, reducing deployment time by 20%. With a focus on Kubernetes, I optimised cluster performance, cutting infrastructure costs by 29% while successfully managing a 39% increase in traffic. Currently, I manage a Kubernetes cluster handling 80,000 transactions daily, with applications tested for high-throughput performance. Holding certifications as an AWS Certified Solutions Architect – Associate and a Certified Kubernetes Administrator, I am committed to staying at the forefront of DevOps and cloud innovation.
 I welcome connections from fellow professionals, feel free to reach out!</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaadevops&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaadevops" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
