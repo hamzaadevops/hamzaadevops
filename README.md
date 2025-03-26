@@ -2,11 +2,11 @@
 <h2 align="center"> Certified From AWS, Huawei and Linux Foundation </h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaadevops&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaadevops" /> </p>
-<p> Recent Computer Science graduate passionate about building scalable, high‑performance cloud infrastructure. Skilled in AWS, Terraform, Kubernetes, and GitHub Actions, I automate deployments that drive efficiency and cost savings.
-🔹 At AntonX, I reduced deployment time by 20% through GitHub Actions pipelines and optimized Kubernetes clusters—cutting infrastructure costs by 29% while supporting a 39% traffic surge. I currently manage a cluster processing 80,000 daily transactions with end‑to‑end high‑throughput testing.
+<p> Recent Computer Science graduate passionate about building scalable, high‑performance cloud infrastructure. Skilled in AWS, Terraform, Kubernetes, and GitHub Actions, I automate deployments that drive efficiency and cost savings.<br>
+🔹 At AntonX, I reduced deployment time by 20% through GitHub Actions pipelines and optimized Kubernetes clusters—cutting infrastructure costs by 29% while supporting a 39% traffic surge. I currently manage a cluster processing 80,000 daily transactions with end‑to‑end high‑throughput testing.<br>
 🔹 At PufferSoft, I helped accelerate deployment cycles by 30% for an application serving over 2 million users.
 
-🎯 AWS Certified Solutions Architect – Associate | Certified Kubernetes Administrator
+🎯 AWS Certified Solutions Architect – Associate | Certified Kubernetes Administrator <br>
 🚀 Always exploring new DevOps best practices and cloud innovations — let’s connect!
 </p>
 
