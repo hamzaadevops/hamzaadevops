@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hamza Khan</h1>
-<h2 align="center">Cloud DevOps Engineer </h2> 
-<h3 align="center"> Certified From AWS, Huawei and Linux Foundation</h3>
+<h1 align="center">Hi 👋, I'm Hamza Khan - Cloud DevOps Engineer </h1>
+<h2 align="center"> Certified From AWS, Huawei and Linux Foundation </h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaadevops&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaadevops" /> </p>
-<p> As a recent Computer Science graduate, I’m passionate about driving innovation in cloud infrastructure and DevOps. My hands-on experience spans across multiple platforms, including AWS and Terraform, enabling automated infrastructure that enhances scalability and efficiency.  My journey in DevOps was further enriched at PufferSoft, where I contributed to cloud strategies that accelerated deployment times by 30% and supported an application handling over 2 million users.
+<p> Recent Computer Science graduate passionate about building scalable, high‑performance cloud infrastructure. Skilled in AWS, Terraform, Kubernetes, and GitHub Actions, I automate deployments that drive efficiency and cost savings.
+🔹 At AntonX, I reduced deployment time by 20% through GitHub Actions pipelines and optimized Kubernetes clusters—cutting infrastructure costs by 29% while supporting a 39% traffic surge. I currently manage a cluster processing 80,000 daily transactions with end‑to‑end high‑throughput testing.
+🔹 At PufferSoft, I helped accelerate deployment cycles by 30% for an application serving over 2 million users.
 
-I am currently working as Associate DevOps Engineer at AntonX, where I led the charge in implementing high-performance cloud solutions, where I streamlined our processes using GitHub Actions, reducing deployment time by 20%. With a focus on Kubernetes, I optimised cluster performance, cutting infrastructure costs by 29% while successfully managing a 39% increase in traffic. Currently, I manage a Kubernetes cluster handling 80,000 transactions daily, with applications tested for high-throughput performance. Holding certifications as an AWS Certified Solutions Architect – Associate and a Certified Kubernetes Administrator, I am committed to staying at the forefront of DevOps and cloud innovation.
-I welcome connections from fellow professionals, feel free to reach out!</p>
+🎯 AWS Certified Solutions Architect – Associate | Certified Kubernetes Administrator
+🚀 Always exploring new DevOps best practices and cloud innovations — let’s connect!
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
