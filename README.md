@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan</h1>
-<h2 align="center">Cloud DevOps Engineer </h2> <h3><br> Certified From AWS, Huawei and Linux Foundation</h3>
+<h2 align="center">Cloud DevOps Engineer </h2> 
+<h3 align="center"> Certified From AWS, Huawei and Linux Foundation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaadevops&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaadevops" /> </p>
 <p> As a recent Computer Science graduate, I’m passionate about driving innovation in cloud infrastructure and DevOps. My hands-on experience spans across multiple platforms, including AWS and Terraform, enabling automated infrastructure that enhances scalability and efficiency.  My journey in DevOps was further enriched at PufferSoft, where I contributed to cloud strategies that accelerated deployment times by 30% and supported an application handling over 2 million users.
